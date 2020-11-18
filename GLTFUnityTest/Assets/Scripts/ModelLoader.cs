@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 using UnityEngine.UI;
+//loads the model at runtime
 
 public class ModelLoader : MonoBehaviour
 {
